@@ -14,7 +14,7 @@ You need to have the following installed
 If you want to download the source code, follow the below steps :- 
 
 - Open a Terminal
-- Execute the command `git clone https://github.com/senshiii/Spring-Security-JWT-Authentication.git`
+- Execute the command `git clone https://github.com/BrycenG007/Spring-Authentication.git`
 - Open your favorite IDE ( I recommend using IntelliJ IDEA or Eclipse)
 - Select Open project and navigate to the location where you cloned the source code
 
