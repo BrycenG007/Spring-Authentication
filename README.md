@@ -1,9 +1,4 @@
 # Spring Security JWT Tutorial
-
-This is the repository for the Medium article teaching you how to implement JWT Authentication using Spring Boot and Spring Security
-
-Link to the Medium Article - [here](https://sayand031999.medium.com/implementing-json-web-token-jwt-authentication-using-spring-security-detailed-walkthrough-1ac480a8d970)
-
 # How to Use
 
 ## Prerequisites 
